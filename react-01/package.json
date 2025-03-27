@@ -1,7 +1,8 @@
 {
-  "name": "HELLO_WOLRD_SERVER_SIDE/react-01",
+  "name": "hello_world_server_side/react-01",
   "version": "0.1.0",
   "private": false,
+  "homepage": "https://lordjr05.github.io/hello_world_server_side/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
