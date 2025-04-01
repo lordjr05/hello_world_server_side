@@ -11,3 +11,12 @@
 #main-nav li a{
     text-decoration: none;
 }
+
+#main-nav, .hide-small {
+    display: none;
+    color: red;
+}
+
+@media screen  {
+    
+}
